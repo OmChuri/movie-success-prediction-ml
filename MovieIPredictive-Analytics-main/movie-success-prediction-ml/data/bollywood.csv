@@ -1,0 +1,16 @@
+title,budget,revenue,popularity,runtime,vote_average,genres,director,lead_actor,region
+Dangal,10000000,260000000,85.0,161,8.4,"[{""name"": ""Action""}, {""name"": ""Biography""}, {""name"": ""Drama""}]",Nitesh Tiwari,Aamir Khan,Bollywood
+Pathaan,30000000,130000000,105.0,146,6.5,"[{""name"": ""Action""}, {""name"": ""Thriller""}]",Siddharth Anand,Shah Rukh Khan,Bollywood
+Jawan,36000000,140000000,115.0,169,7.0,"[{""name"": ""Action""}, {""name"": ""Thriller""}]",Atlee,Shah Rukh Khan,Bollywood
+Secret Superstar,2000000,120000000,60.0,150,7.9,"[{""name"": ""Drama""}, {""name"": ""Music""}]",Advait Chandan,Zaira Wasim,Bollywood
+Bajrangi Bhaijaan,12000000,121000000,75.0,159,8.1,"[{""name"": ""Action""}, {""name"": ""Drama""}, {""name"": ""Comedy""}]",Kabir Khan,Salman Khan,Bollywood
+PK,12000000,105000000,80.0,153,8.1,"[{""name"": ""Comedy""}, {""name"": ""Drama""}]",Rajkumar Hirani,Aamir Khan,Bollywood
+Sanju,12000000,83000000,65.0,161,7.7,"[{""name"": ""Biography""}, {""name"": ""Drama""}]",Rajkumar Hirani,Ranbir Kapoor,Bollywood
+Sultan,13000000,89000000,72.0,170,7.0,"[{""name"": ""Action""}, {""name"": ""Drama""}, {""name"": ""Sport""}]",Ali Abbas Zafar,Salman Khan,Bollywood
+Padmaavat,30000000,81000000,68.0,164,7.0,"[{""name"": ""Drama""}, {""name"": ""History""}]",Sanjay Leela Bhansali,Ranveer Singh,Bollywood
+Animal,12000000,108000000,130.0,201,6.8,"[{""name"": ""Action""}, {""name"": ""Crime""}, {""name"": ""Drama""}]",Sandeep Reddy Vanga,Ranbir Kapoor,Bollywood
+Thugs of Hindostan,45000000,42000000,60.0,164,4.1,"[{""name"": ""Action""}, {""name"": ""Adventure""}]",Vijay Krishna Acharya,Aamir Khan,Bollywood
+Zero,25000000,23000000,55.0,164,5.4,"[{""name"": ""Comedy""}, {""name"": ""Drama""}, {""name"": ""Romance""}]",Aanand L. Rai,Shah Rukh Khan,Bollywood
+Bombay Velvet,16000000,5000000,40.0,149,5.5,"[{""name"": ""Crime""}, {""name"": ""Drama""}, {""name"": ""Thriller""}]",Anurag Kashyap,Ranbir Kapoor,Bollywood
+Kalank,20000000,18000000,48.0,166,3.6,"[{""name"": ""Drama""}, {""name"": ""Romance""}]",Abhishek Varman,Varun Dhawan,Bollywood
+Bade Miyan Chote Miyan,45000000,15000000,55.0,164,4.5,"[{""name"": ""Action""}, {""name"": ""Comedy""}]",Ali Abbas Zafar,Akshay Kumar,Bollywood

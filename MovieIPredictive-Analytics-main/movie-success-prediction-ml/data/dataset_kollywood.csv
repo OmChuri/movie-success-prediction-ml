@@ -1,0 +1,12 @@
+title,budget,revenue,popularity,runtime,vote_average,genres,director,lead_actor,region
+2.0,75000000,85000000,70.0,148,6.1,"[{""name"": ""Action""}, {""name"": ""Sci-Fi""}]",S. Shankar,Rajinikanth,Kollywood
+Vikram,15000000,60000000,85.0,175,8.3,"[{""name"": ""Action""}, {""name"": ""Thriller""}]",Lokesh Kanagaraj,Kamal Haasan,Kollywood
+Jailer,25000000,75000000,90.0,168,7.3,"[{""name"": ""Action""}, {""name"": ""Comedy""}]",Nelson Dilipkumar,Rajinikanth,Kollywood
+Leo,30000000,74000000,95.0,164,7.4,"[{""name"": ""Action""}, {""name"": ""Crime""}]",Lokesh Kanagaraj,Vijay,Kollywood
+Ponniyin Selvan: I,25000000,60000000,80.0,167,7.6,"[{""name"": ""Action""}, {""name"": ""Drama""}]",Mani Ratnam,Vikram,Kollywood
+Master,18000000,38000000,78.0,179,7.1,"[{""name"": ""Action""}, {""name"": ""Thriller""}]",Lokesh Kanagaraj,Vijay,Kollywood
+Puli,15000000,11000000,45.0,154,4.1,"[{""name"": ""Action""}, {""name"": ""Adventure""}]",Chimbudevan,Vijay,Kollywood
+Kochadaiiyaan,18000000,10000000,50.0,118,5.4,"[{""name"": ""Action""}, {""name"": ""Animation""}]",Soundarya Rajinikanth,Rajinikanth,Kollywood
+Anjaan,10000000,7000000,40.0,170,4.5,"[{""name"": ""Action""}, {""name"": ""Crime""}]",N. Lingusamy,Suriya,Kollywood
+Beast,20000000,19000000,60.0,155,5.0,"[{""name"": ""Action""}, {""name"": ""Thriller""}]",Nelson Dilipkumar,Vijay,Kollywood
+Valimai,18000000,15000000,55.0,178,5.5,"[{""name"": ""Action""}, {""name"": ""Thriller""}]",H. Vinoth,Ajith Kumar,Kollywood
